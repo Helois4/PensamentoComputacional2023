@@ -1,0 +1,2 @@
+# PensamentoComputacional2023
+Repositoriocriadoparaadisciplinadepensamentocomputacionaldoanode2023
